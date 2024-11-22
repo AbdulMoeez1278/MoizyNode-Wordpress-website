@@ -1,4 +1,5 @@
-# MoizyNode-Wordpress-website
+# MoizyNode-Wordpress-Blog-website
+If you need access to the repository code, feel free to email me at [abdulmoeez1278@gmail.com], and I'll get back to you as soon as possible.
 
 # MoizyNode - Coding Blog website
 
